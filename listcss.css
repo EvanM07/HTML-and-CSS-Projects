@@ -1,0 +1,10 @@
+ol {
+	list-stlye-type: upper-roman;
+}
+ui {
+	list-stlye-type: square;
+}
+
+body {
+	text-shadow: 00 3px #FF0000,00 5px #0000ff;
+}
